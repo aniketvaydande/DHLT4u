@@ -13,6 +13,7 @@ import org.openqa.selenium.JavascriptExecutor;
 
 public class BaseClassMethods extends Browser {
 	
+	//this is base file
 
 	public void highLightElement(WebElement element, WebDriver driver) {
 
